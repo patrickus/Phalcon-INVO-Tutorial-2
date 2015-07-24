@@ -6,7 +6,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </a>
-            <a class="brand" href="#">INVO</a>
+            <a class="brand" href="#"><img style="max-width:40px;"src='/img/assmbl-test1.png'></a>
             {{ elements.getMenu() }}
         </div>
     </div>
